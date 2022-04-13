@@ -1,0 +1,6 @@
+*.jpg
+*.zip
+*.txt
+.ipynb_checkpoints*
+!test*
+token
